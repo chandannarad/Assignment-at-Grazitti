@@ -7,4 +7,4 @@ I was an Intern in the Data Analytics Team of Grazitti Interactive. I learned th
 6. Performed Initial Data Exploration on Dataframes using Pandas' Read, order, filter, and clean data functionalities.
 7. Used Matplotlib, Seaborn, and other libraries of Python.
 8. At the end of the Internship I did a project using Python libraries and their functionalities.
-9. In the project I used 4 Machine Learning Algorithms: Logistic Regression, K- Nearest Number, Decision Trees, Random Forest.
+9. In the project I implementing 4 Machine Learning Algorithms: Logistic Regression, K- Nearest Number, Decision Trees, Random Forest.
